@@ -17,11 +17,10 @@ Acceptance criteria are very simple, and work is expected to be complete within 
 ---
 
 ### Open Grant
-Do you have an idea for pushing the Filecoin ecosystem forward? Grants of up to $30,000 are available to support novel ideas that advance the Filecoin ecosystem, bring significant new usage, or directly advance the Filecoin mission statement.
+Do you have an idea for pushing the Filecoin ecosystem forward? Grants of over $5000 are available to support novel ideas that advance the Filecoin ecosystem, bring significant new usage, or directly advance the Filecoin mission statement.
 
- Wave 11 proposal submissions are due **September 30, 2021 at 23:59 PDT** for priority consideration.
 
-[**LEARN MORE ABOUT OPEN GRANTS**](https://github.com/filecoin-project/devgrants/tree/master/open-grants) **AND** [**APPLY FOR AN OPEN GRANT**](https://github.com/filecoin-project/devgrants/blob/master/.github/ISSUE_TEMPLATE/opengrant.md) • [**See Open Grant Proposals**](https://github.com/filecoin-project/devgrants/blob/master/open-grants/accepted-open-grant-applications.md)
+[**LEARN MORE ABOUT OPEN GRANTS**](https://github.com/filecoin-project/devgrants/tree/master/open-grants) **AND** [**APPLY FOR AN OPEN GRANT**](https://github.com/filecoin-project/devgrants/issues/new?assignees=&labels=&template=open-grant-application.md&title=) • [**See Accepted Open Grant Proposals**](https://github.com/filecoin-project/devgrants/blob/master/open-grants/accepted-open-grant-applications.md)
 
 
 ---
@@ -31,14 +30,15 @@ RFPs are grants for specific development work. As the name suggests, we are requ
 
 OPEN RFPs:
 
-[**Chainlink x Filecoin**](https://github.com/filecoin-project/devgrants/blob/master/rfps/chainlink-and-filecoin.md) -- Deadline September 17
 
-[**Near Protocol x Filecoin**](https://github.com/filecoin-project/devgrants/blob/master/rfps/near-and-filecoin.md) -- Deadline October 30 
+* [**FVM Project Ideas**](https://github.com/filecoin-project/devgrants/blob/master/rfps/fvm-rfp-ideas.md) RFP
+* [**FVM Tooling & Infrastructure**](https://github.com/filecoin-project/devgrants/blob/master/rfps/fvm-open-tools-infra.md) RFP
+* [**Green Grants**](https://github.com/filecoin-project/devgrants/blob/master/rfps/green-grants.md) RFP
 
 [**LEARN MORE AND APPLY FOR AN RFP**](https://github.com/filecoin-project/devgrants/blob/master/README.md#submit-a-proposal-for-an-rfp)
 
 ---
 
 ### Don't see your grant type?
-Is your organization interested in offering a grant that doesn't fit into any of the above categories? [Email us directly](grants@filecoin.org) with your idea.
+Is your organization interested in offering a grant that doesn't fit into any of the above categories? [Email us directly](mailto:grants@filecoin.org) with your idea.
 

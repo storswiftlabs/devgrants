@@ -13,7 +13,7 @@ Next Step Microgrants are awarded in the amount of **$5,000**, paid in FIL token
 ### Program Qualifications
 Next Step Microgrants are intended to be easy to apply for, evaluate, and administer. Projects must meet these 5 criteria:
 
-1. You've already built something with Filecoin (or closely related technologies such as IPLD, libp2p, or frameworks or services such as NFT.storage, Textile Powergate, etc.), independently or as part of a course or hackathon.
+1. You've already built a working prototype with Filecoin (or closely related technologies such as IPFS, IPLD, libp2p, or frameworks or services such as NFT.storage, Textile Powergate, etc.), independently or as part of a course or hackathon.
 1. You can provide a clear and straightforward description of the _Next Step_ you plan to take with grant support.
 1. You can complete this work within 3 months. 
 1. You agree to open-source this work, via MIT license for code or [CC-BY-SA 3.0](https://ipfs.io/ipfs/QmVreNvKsQmQZ83T86cWSjPu2vR3yZHGPm5jnxFuunEB9u) license for content.
@@ -24,10 +24,8 @@ We may also contact you about promoting the resulting work, including coverage o
 ### Timelines
 Grant applications are typically reviewed every 2 weeks.
 
-## Apply
-
-1. Add your project to the Filecoin Community Showcase by following the instructions in [filecoin-project/community](https://github.com/filecoin-project/community/#showcase-your-project).
-2. ONLY once your filecoin-project/community PR has been merged, [**APPLY HERE**](https://github.com/filecoin-project/devgrants/issues/new?assignees=mishmosh&labels=type%3Amicrogrant&template=microgrant.md&title=Next+Step+Microgrant%3A+%3CYour+Title+Here%3E)
+### Apply
+Apply for a grant using our [Next Step Microgrant Template](https://github.com/filecoin-project/devgrants/issues/new?assignees=mishmosh&labels=type%3Amicrogrant&template=microgrant.md&title=Next+Step+Microgrant%3A+%3CYour+Title+Here%3E).
 
 ## FAQ
 
@@ -56,7 +54,7 @@ Grant applications are typically reviewed every 2 weeks.
   * A: Yes! All team permutations are ok as long as there is only one submission per original hackathon project.
 
 * Q: What if my "next step" is significantly different from the original project? Can I apply for multiple "next step" grants?
-  * A: Next Step Microgrants are intended to build upon prior work. If you're unsure, go ahead and [apply](https://github.com/filecoin-project/devgrants/issues/new?assignees=mishmosh&labels=type%3Amicrogrant&template=microgrant.md&title=Next+Step+Microgrant%3A+%3CYour+Title+Here%3E), but add a section explaining the situation with links to any prior grant applications or code. We will review on a case-by-case basis. In some cases, we will recommend that you apply for an [Open Grant](open-grants/) instead.
+  * A: Next Step Microgrants are intended to build upon prior work. If you're unsure, go ahead and [apply](https://github.com/filecoin-project/devgrants/issues/new?assignees=mishmosh&labels=type%3Amicrogrant&template=microgrant.md&title=Next+Step+Microgrant%3A+%3CYour+Title+Here%3E), but add a section explaining the situation with links to any prior grant applications or code. We will review on a case-by-case basis. In some cases, we will recommend that you apply for an [Open Grant](/open-grants/) instead.
 
 * Q: I'm not a coding participant; I coordinated or made videos or helped in other ways. Am I eligible?
   * A: YES! In real life, successful products are the result of many roles, skills, backgrounds and disciplines... not just coding. You are an INSTRUMENTAL part of your team, and are eligible to receive the grant as well.

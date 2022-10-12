@@ -1,14 +1,23 @@
+---
+name: Open Grant Application
+about: Submit an open grant application
+title: ''
+labels: Open Grant
+assignees: realChainLife
+
+---
+
 # Open Grant Proposal: `Project Title`
 
 **Name of Project:**
 
-**Proposal Category:** Choose one of `core-dev`, `app-dev`, `devtools-libraries`, `technical-design`, `docs`
+**Proposal Category:** Choose one of `core-dev`, `app-dev`, `devtools-libraries`, `integration-adoption` , `technical-design`, `docs` , `community` , `metaverse` , `research` , `green`  Learn what these categories are here: https://github.com/filecoin-project/devgrants/tree/master/open-grants#readme
 
 **Proposer:** `replace with your GitHub username`
 
-**(Optional) Technical Sponsor:** `If you have previously discussed this project with a member of the IPFS or Filecoin project teams, include their name and/or github handle here`
+**(Optional) Technical Sponsor:** `If you have previously discussed this project with a member of the IPFS or Filecoin project teams and they have agreed to be a technical sponsor, include their name and/or github handle here`
 
-**Do you agree to open source all work you do on behalf of this RFP and dual-license under MIT, GPL, and APACHE2 licenses?:** Please respond with either "Yes" or "No"
+**Do you agree to open source all work you do on behalf of this RFP and dual-license under MIT, APACHE2, or GPL licenses?:** Please respond with either "Yes" or "No"
 
 # Project Description
 
@@ -78,5 +87,6 @@
 <!-- Please provide links to your team's prior code repos for similar or related projects. -->
 
 # Additional Information
-
+<!-- How did you learn about the Open Grants Program? -->
+<!-- Please provide the best email address for discussing the grant agreement and general next steps. -->
 <!-- Please include any additional information that you think would be useful in helping us to evaluate your proposal. -->
