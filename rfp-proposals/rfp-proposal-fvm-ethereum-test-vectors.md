@@ -60,8 +60,6 @@ This tool can be written in either Go or Rust.
    </td>
    <td><strong>Estimated Timeframe</strong>
    </td>
-   <td><strong>FTE</strong>
-   </td>   
   </tr>
   <tr>
    <td>1
@@ -71,8 +69,6 @@ This tool can be written in either Go or Rust.
    <td>TBD
    </td>
    <td>2 days
-   </td>
-    <td>1 
    </td>
   </tr>
   <tr>
@@ -84,8 +80,6 @@ This tool can be written in either Go or Rust.
    </td>
    <td>5 days
    </td>
-    <td>2 
-   </td>
   </tr>
   <tr>
    <td>3
@@ -95,8 +89,6 @@ This tool can be written in either Go or Rust.
    <td>TBD
    </td>
    <td>5 days
-   </td>
-    <td>2 
    </td>
   </tr>
   <tr>
@@ -108,8 +100,6 @@ This tool can be written in either Go or Rust.
    </td>
    <td>8 days
    </td>
-    <td>2 
-   </td>
   </tr>
   <tr>
    <td>5
@@ -119,8 +109,6 @@ This tool can be written in either Go or Rust.
    <td>TBD
    </td>
    <td>3 days
-    <td>1
-   </td>
    </td>
   </tr>
 </table>
