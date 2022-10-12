@@ -28,6 +28,15 @@ It should be able to:
 We want to run this tool a few times if needed and fix encountered errors every time.
 This tool can be written in either Go or Rust.
 
+# Draft proposal graph
+
+![image](https://user-images.githubusercontent.com/67536047/195347846-3ea34be4-f70c-4381-8c77-a11aa99c37c4.png)
+
+![image](https://user-images.githubusercontent.com/67536047/195347977-d1b0df99-0adb-41c3-a4f7-11893f176196.png)
+
+![image](https://user-images.githubusercontent.com/67536047/195348190-17f08fc1-d5df-43a7-9e78-2212fe03b816.png)
+
+
 ## Deliverables
 
 * Source code of the tool
