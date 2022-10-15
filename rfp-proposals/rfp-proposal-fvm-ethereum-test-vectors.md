@@ -66,9 +66,9 @@ This tool can be written in either Go or Rust.
    </td>
    <td>Design the test tool architecture and finalize the specification
    </td>
-   <td>TBD
+   <td>1 FTE: 10000\$
    </td>
-   <td>2 days
+   <td>3 days
    </td>
   </tr>
   <tr>
@@ -76,7 +76,7 @@ This tool can be written in either Go or Rust.
    </td>
    <td>Implementation of a function which fetches hundreds of contracts and transactions from Ethereum, stores them 
    </td>
-   <td>TBD
+   <td>2 FTE: 9800\$
    </td>
    <td>5 days
    </td>
@@ -86,7 +86,7 @@ This tool can be written in either Go or Rust.
    </td>
    <td>Implementation of a function which deploys contracts to Filecoin testnet and replays transactions on Filecoin testnet
    </td>
-   <td>TBD
+   <td>2 FTE: 9600\$
    </td>
    <td>5 days
    </td>
@@ -96,7 +96,7 @@ This tool can be written in either Go or Rust.
    </td>
    <td>Implementation of a function which compares the Ethereum state before and after these transactions with the results on Filecoin
    </td>
-   <td>TBD
+   <td>2 FTE: 14800\$
    </td>
    <td>8 days
    </td>
@@ -106,12 +106,15 @@ This tool can be written in either Go or Rust.
    </td>
    <td>Finish the test and work out the guides about how to use
    </td>
-   <td>TBD
+   <td>1 FTE: 3800\$
    </td>
-   <td>3 days
+   <td>4 days
    </td>
   </tr>
 </table>
+
+## Total Funding Requested
+Total: 48000 \$
 
 ## Maintenance and Upgrade Plans
 
