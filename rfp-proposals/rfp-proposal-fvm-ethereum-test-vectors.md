@@ -43,9 +43,12 @@ This tool can be written in either Go or Rust.
 * Guides on how to use it
 * Fetched smart contracts and transactions 
 
-
 ## Development Roadmap
 
+
+## Development Status
+* Retrieved all blocks, transactions and events from Ethereum
+* Design and development of the CLI used to filter the ordered contract and transactions is in progress
 
 
 ## Milestones & Funding
